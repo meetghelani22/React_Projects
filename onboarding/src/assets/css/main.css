@@ -1,0 +1,317 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    font-size: clamp(.85rem, 1vw, .9rem) !important;
+    font-weight: 400;
+}
+
+.fs-16 {
+    font-size: 16px;
+}
+
+h1 {
+    font-size: clamp(2.5rem, 4vw, 4rem) !important;
+}
+
+h2 {
+    font-size: clamp(1.5rem, 3vw, 2.5rem) !important;
+}
+
+.primary-text {
+    color: #5f82ab !important;
+}
+
+.text-secondary {
+    color: #000 !important;
+}
+
+
+.primary-bg {
+    background-color: #5f82ab !important;
+}
+
+.fw-bold {
+    font-weight: 700 !important;
+}
+
+.fw-semibold {
+    font-weight: 600 !important;
+}
+
+.ff-inter {
+    font-family: Inter, sans-serif;
+}
+
+.herobg {
+    min-height: 100vh;
+    overflow: hidden;
+    position: relative;
+}
+
+.max-h-60 {
+    max-height: 60px;
+}
+
+.onb-btn {
+    background-color: initial;
+    border: 1px solid #fff;
+    color: #fff;
+    border-radius: 0;
+    font-size: clamp(.85rem, 1vw, 1.15rem);
+}
+
+.onb-btn.btn-primary {
+    background-color: #5f82ab;
+}
+
+.onb-btn.btn-primary:is(:hover, :focus, :active) {
+    background-color: #7795b8 !important;
+}
+
+.onb-btn.btn-secondary {
+    background-color: #080909;
+}
+
+.onb-btn:disabled {
+    opacity: 0.5;
+}
+
+.form-check-input:checked {
+    background-color: #5f82ab !important;
+    border-color: #5f82ab;
+    border: 1px solid white !important;
+}
+
+.form-check-input:focus {
+    border-color: none !important;
+    outline: 0;
+    box-shadow: none !important;
+}
+
+
+::-webkit-scrollbar {
+    width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 6px rgba(0, 0, 0, .3);
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background-color: rgba(0, 0, 0, .6)
+}
+
+.fs-12 {
+    font-size: 12px;
+}
+
+/* ?  Customer Form  */
+.form-side {
+    height: 100vh;
+    position: sticky;
+    top: 0;
+}
+
+.upload-photo {
+    bottom: 0;
+    cursor: pointer;
+    left: 0;
+    opacity: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 9;
+}
+
+.input-img {
+    position: relative;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 64px;
+    width: 64px;
+    overflow: hidden;
+    padding: 5px;
+    font-size: 10px;
+    border-radius: 50%;
+    border: 1px solid #e4ebf3;
+}
+
+.input-data {
+    position: relative;
+}
+
+.input-data input,
+.input-data select,
+.input-data textarea {
+    border: 1px solid #e4ebf3;
+    border-radius: 0;
+    color: #000;
+    line-height: 64px;
+    min-height: 64px;
+    padding: 0 0.75rem;
+    transition: all .4s linear;
+}
+
+.input-data .input-label {
+    background: #fff;
+    left: 0.5rem;
+    line-height: 1;
+    padding: 0 0.25rem;
+    position: absolute;
+    top: -0.5rem;
+}
+
+.input-data input:is(:hover, :focus, :active),
+.input-data select:is(:hover, :focus, :active, :focus-within),
+.input-data textarea:is(:hover, :focus, :active) {
+    border-color: #5f82ab !important;
+    box-shadow: unset !important;
+    color: #5f82ab !important;
+    outline: none;
+}
+
+input::placeholder {
+    color: rgba(141, 147, 161, .5) !important;
+}
+
+.input-data input:not(:placeholder-shown),
+.input-data select:not(:placeholder-shown),
+.input-data textarea:not(:placeholder-shown) {
+    /* border-color: #5f82ab !important; */
+    color: #5f82ab;
+}
+
+.error {
+    color: red !important;
+}
+
+.bs {
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+}
+
+/* ? Address Verification CSS */
+
+.upload-document {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    cursor: pointer;
+    opacity: 0;
+    z-index: 9;
+}
+
+.input-img-doc {
+    position: relative;
+    width: 100%;
+    font-size: 16px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    overflow: hidden;
+    border: 1px solid #e4ebf3;
+    background-color: #F1F0EF;
+    opacity: 1;
+    /* width: 64px; */
+}
+
+.bg-drop {
+    background-color: #F1F0EF;
+    opacity: 1;
+}
+
+.disabledDiv {
+    cursor: not-allowed;
+    opacity: .6;
+    pointer-events: none;
+}
+
+.list-inline-item:not(:last-child) {
+    margin-right: 0.5rem;
+}
+
+.needsupport ul li:nth-child(2) {
+    border-right: 3px solid #fff;
+    line-height: 1;
+    padding-right: 0.5rem;
+}
+
+.list-inline-item {
+    display: inline-block;
+}
+
+/* ? Progress Bar CSS*/
+
+.processStepmain .process-step {
+    display: flex;
+    padding-bottom: 2rem;
+    position: relative;
+}
+
+.processStepmain .process-step .counter {
+    position: relative;
+    display: inline-block;
+    flex-shrink: 0;
+    height: 20px;
+    width: 20px;
+    margin-right: 1rem;
+    border-radius: 50%;
+    background-color: #fff;
+}
+
+.processStepmain .process-step:before {
+    position: absolute;
+    content: "";
+    width: 2px;
+    top: 0;
+    left: 9px;
+    bottom: 0;
+    background-color: #fff;
+}
+
+.processStepmain .process-step:last-child {
+    padding-bottom: 0
+}
+
+.processStepmain .process-step:last-child:before {
+    content: none
+}
+
+.processStepmain .process-step.active .counter {
+    background-color: #a5e100
+}
+
+.processStepmain .process-step.active:before {
+    background-color: #a5e100
+}
+
+.processStepmain .process-step.active .counter:before {
+    bottom: 0;
+    content: "\2713";
+    content: "";
+    display: grid;
+    font-size: 12px;
+    left: 0;
+    place-items: center;
+    position: absolute;
+    right: 0;
+    top: 0
+}
+
+.backimg {
+    background: url("../images/backimg.png") no-repeat right center;
+}
+
+.contract p {
+    font-weight: 500;
+    font-size: 18px;
+}
