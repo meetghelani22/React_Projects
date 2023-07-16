@@ -1,0 +1,123 @@
+* {
+    font-family: "Poppins", sans-serif;
+    /* outline: 2px solid red; */
+}
+
+.bs {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.c-p {
+    cursor: pointer;
+}
+
+.dark-theme {
+    background-color: black !important;
+    color: white !important;
+}
+
+.light-theme {
+    background-color: white !important;
+    color: black !important;
+}
+
+.hov {
+    position: relative;
+    transition: 0.2s all ease-in;
+}
+
+.hov:hover {
+    transform: scale(1.1);
+    transition: 0.3s all ease-out;
+}
+
+.search-dark {
+    color: white !important;
+    background-color: hsl(0, 0%, 7%) !important;
+    border: 1px solid hsl(0, 0%, 18.82%) !important;
+}
+
+.search-dark::placeholder {
+    color: white !important;
+}
+
+.fw-14 {
+    font-size: 14px;
+}
+
+.fw-16 {
+    font-size: 16px;
+}
+
+.detail-dark {
+    /*     box-shadow:
+    0px 24px 38px 3px hsla(0, 0%, 0%, 0.14),
+    0px 9px 46px 8px hsla(0, 0%, 0%, 0.12),
+    0px 11px 15px -7px hsla(0, 0%, 0%, 0.2); */
+    background-color: hsla(0, 100%, 100%, 0.16);
+    /* background-color: rgba(255, 255, 255, 0.1); */
+    /* background-color: hsl(0, 0%, 7%) !important; */
+}
+
+.dark-fill {
+    fill: white;
+}
+
+.btn-primary {
+    background-color: red !important;
+    outline: none;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: rgb(201, 71, 71) !important;
+    transition: 0.5s all ease-out !important;
+}
+
+.sub-btn {
+    outline: none;
+    border: none;
+    background-color: red;
+    color: white;
+    font-size: 14px;
+    padding: 0 16px;
+    border-radius: 18px;
+    line-height: 36px;
+}
+
+.sub-btn:hover {
+    background-color: rgb(201, 71, 71);
+    transition: 0.5s all ease-out;
+}
+
+/* * Shorts CSS */
+.h-200 {
+    height: 200px;
+}
+
+.shorts-height {
+    height: calc(100vh - 61px);
+}
+
+/* * Login Form CSS */
+.back {
+    background-size: cover;
+    background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+}
+
+.btn-color {
+    background-color: rgb(108, 148, 158) !important;
+    outline: none !important;
+}
+
+.bs1 {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    /* box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px; */
+    /* box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; */
+    /* box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px; */
+}
+
+.shadow-text {
+    text-shadow: 3px 3px rgb(209, 47, 47, 0.5);
+
+}

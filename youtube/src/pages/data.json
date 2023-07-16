@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "title": "Apna Bana Le",
+    "detail": "Movie - Bhediya",
+    "thumbnail": "https://i.ytimg.com/vi/ElZfdU54Cp8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDv98hkYErxwV5vbznDZ86ZvkEl7g",
+    "videoUrl": "https://www.youtube.com/embed/ElZfdU54Cp8",
+    "channel": "Zee Music Company",
+    "shorts": "https://www.youtube.com/embed/5JqzCjg4YRU"
+  },
+  {
+    "id": 2,
+    "title": "Maan meri Jaan",
+    "detail": "King - Champagne Talk",
+    "thumbnail": "https://i.ytimg.com/vi/VuG7ge_8I2Y/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7-uqNWGKL2J1RuvzArcFPv-YdMQ",
+    "videoUrl": "https://www.youtube.com/embed/VuG7ge_8I2Y",
+    "channel": "King",
+    "shorts": "https://www.youtube.com/embed/kLO7EeTolZY"
+  },
+  {
+    "id": 3,
+    "title": "Kesariya",
+    "detail": "Movie - Brahmāstra",
+    "thumbnail": "https://i.ytimg.com/vi/BddP6PYo2gs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBkH6mntazw0BSfrHhPwTiqmBIZuQ",
+    "videoUrl": "https://www.youtube.com/embed/BddP6PYo2gs",
+    "channel": "Sony Music India",
+    "shorts": "https://www.youtube.com/embed/-Q1CWuh6B0I"
+  },
+  {
+    "id": 4,
+    "title": "John Wick:Chapter 4",
+    "detail": "John Wick Chapter 4(2023) Final Trailer",
+    "thumbnail": "https://i.ytimg.com/vi/yjRHZEUamCc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDg1YiFgxHggHuCvsKZVpnxYYQyuQ",
+    "videoUrl": "https://www.youtube.com/embed/yjRHZEUamCc",
+    "channel": "Lionsgate Movies",
+    "shorts": "https://www.youtube.com/embed/vvFpm9dWM3I"
+  },
+  {
+    "id": 5,
+    "title": "Ant-Man and The Wasp: Quantumania",
+    "detail": "Marvel Studios' Ant-Man and The Wasp: Quantumania | New Trailer",
+    "thumbnail": "https://i.ytimg.com/vi/5WfTEZJnv_8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA935jIMhguNQclsDaIvL1383TQdA",
+    "videoUrl": "https://www.youtube.com/embed/5WfTEZJnv_8",
+    "channel": "Marvel Studios"
+  },
+  {
+    "id": 6,
+    "title": "Taarak Mehta Ka Ooltah Chashmah",
+    "detail": "Taarak Mehta Ka Ooltah Chashmah - Episode 904 - Full Eposide",
+    "thumbnail": "https://i.ytimg.com/vi/x86ivk2Sgo0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNf1xmkXeJsWYo2XLbfoNk874mBg",
+    "videoUrl": "https://www.youtube.com/embed/x86ivk2Sgo0",
+    "channel": "SAB"
+  },
+  {
+    "id": 7,
+    "title": "Roommate - Ft. Anubhav Singh Bassi",
+    "detail": "Roommate - Stand Up Comedy Ft. Anubhav Singh Bassi",
+    "thumbnail": "https://i.ytimg.com/vi/qkxuFKqJXWY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTZLZZa-_BbEpsMk8TF5qKVbH7Ew",
+    "videoUrl": "https://www.youtube.com/embed/qkxuFKqJXWY",
+    "channel": "Anubhav Singh Bassi"
+  },
+  {
+    "id": 8,
+    "title": "Pyaar Hota Kayi Baar Hai",
+    "detail": "Movie - Tu Jhoothi Main Makkaar",
+    "thumbnail": "https://i.ytimg.com/vi/HZsRjrYW-lk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRwtBUGBiwYWni7ldqFF6NRlKy0A",
+    "videoUrl": "https://www.youtube.com/embed/HZsRjrYW-lk",
+    "channel": "T-Series"
+  },
+  {
+    "id": 9,
+    "title": "AVOID THESE 23 MISTAKES in the 2023 MARKET!",
+    "detail": "AVOID THESE 23 MISTAKES in the 2023 MARKET! | Investing for Beginners | Ankur Warikoo Hindi",
+    "thumbnail": "https://i.ytimg.com/vi/TirCDHVy6Tc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAHQ3z8ami2xmHw67CqGsaupvsv4Q",
+    "videoUrl": "https://www.youtube.com/embed/TirCDHVy6Tc",
+    "channel": "Ankur Warikoo"
+  },
+  {
+    "id": 10,
+    "title": "Think School - Lithium Ore discovery in J&K",
+    "detail": "How Lithium Ore discovery in J&K will be a game changer for India? : Can India Replace China?",
+    "thumbnail": "https://i.ytimg.com/vi/EZkZe-BuXf8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBQwVaqd0bby4I0TiylXIm94v-FA",
+    "videoUrl": "https://www.youtube.com/embed/EZkZe-BuXf8",
+    "channel": "Think School"
+  },
+  {
+    "id": 11,
+    "title": "The Flash - Trailer",
+    "detail": "The Flash - Official Trailer",
+    "thumbnail": "https://i.ytimg.com/vi/hebWYacbdvc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDuMpcIJb_ukVXH7uBFPKaD7_yqkg",
+    "videoUrl": "https://www.youtube.com/embed/hebWYacbdvc",
+    "channel": "Warner Bros. Pictures"
+  },
+  {
+    "id": 12,
+    "title": "Why Swiss Bank is famous for Black Money?",
+    "detail": "Why Swiss Bank is famous for Black Money? | Nitish Rajput | Hindi",
+    "thumbnail": "https://i.ytimg.com/vi/1McKEMB5Qjo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNNqPRAJNKxYB9pJyGfywZ7BBmtw",
+    "videoUrl": "https://www.youtube.com/embed/1McKEMB5Qjo",
+    "channel": "Nitish Rajput"
+  },
+  {
+    "id": 13,
+    "title": "Taarak Mehta Ka Ooltah Chashmah",
+    "detail": "Taarak Mehta Ka Ooltah Chashmah - Episode 904 - Full Eposide",
+    "thumbnail": "https://i.ytimg.com/vi/jb97jYF3ZR4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUcn5QfCCOJI2IPMuBCDw0ccZHow",
+    "videoUrl": "https://www.youtube.com/embed/jb97jYF3ZR4",
+    "channel": "SAB"
+  },
+  {
+    "id": 14,
+    "title": "LEVELS - Sidhu Moose Wala",
+    "detail": "LEVELS - Official Video | Sidhu Moose Wala ft Sunny Malton | The Kidd",
+    "thumbnail": "https://i.ytimg.com/vi/tpFljbJxZiw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASyvMoji3sL5KcxvaVAAbIXdemAA",
+    "videoUrl": "https://www.youtube.com/embed/tpFljbJxZiw",
+    "channel": "Sidhu Moose Wala"
+  },
+  {
+    "id": 15,
+    "title": "'Deciwood' के Speakers Sharks को लगे एक",
+    "detail": "Sony Shark Tank",
+    "thumbnail": "https://i.ytimg.com/vi/Mwrhf7TuUPw/hq720.jpg?sqp=-…AFwAcABBg==&rs=AOn4CLC7Jc1DwawSCcb1xoNCaRIxpMDFuQ",
+    "videoUrl": "https://www.youtube.com/embed/Mwrhf7TuUPw",
+    "channel": "Sony Liv"
+  },
+  {
+    "id": 16,
+    "title": "Why layoffs are happening? Recession 2023",
+    "detail": "This is video 8.",
+    "thumbnail": "https://i.ytimg.com/vi/ZbRMiG-QzdM/hq720.jpg?sqp=-…AFwAcABBg==&rs=AOn4CLDY72_vaAnbagDhQAhcnBMD_W7fVw",
+    "videoUrl": "https://www.youtube.com/embed/ZbRMiG-QzdM",
+    "channel": "Nitish Rajput"
+  }
+]

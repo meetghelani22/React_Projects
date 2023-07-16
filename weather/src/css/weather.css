@@ -1,0 +1,98 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    /* outline: 2px solid red; */
+}
+
+.background-img {
+    background: url("../images/weather-background1.jpg") no-repeat center center;
+    background-size: cover;
+}
+
+.backdrop {
+    min-height: 100vh;
+    display: flex;
+    backdrop-filter: blur(10px);
+}
+
+.form-control {
+    border: none !important;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px !important;
+    background-color: transparent !important;
+    outline: none !important;
+    /* border: 1px solid !important */
+}
+
+.form-control:focus {
+    border: none !important;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px !important;
+    border-color: none !important;
+}
+
+.btn-primary {
+    background-color: transparent !important;
+    color: black !important;
+    outline: none !important;
+    border: none !important;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px !important;
+}
+
+.btn-primary:hover {
+    background-color: transparent !important;
+    color: black !important;
+    outline: none !important;
+    border: none !important;
+    box-shadow: rgba(102, 102, 102, 0.16) 0px 10px 36px 0px, rgba(190, 190, 190, 0.06) 0px 0px 0px 1px !important;
+}
+
+.bs {
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+    border-radius: 10px;
+}
+
+.fs-100 {
+    font-size: 100px;
+}
+
+.cursor {
+    cursor: pointer;
+}
+
+.bor-right {
+    border-right: 1px solid white;
+}
+
+.bor-right:last-child {
+    border-right: none;
+}
+
+
+/* For Week Data CSS  */
+.background-img1 {
+    background: url("../images/weather-background2.jpg") no-repeat;
+    /* background: url("../images/weather-background1.jpg") no-repeat bottom; */
+    background-size: cover;
+}
+
+.bg-transparent {
+    background-color: transparent !important;
+    /* border: 1px solid !important; */
+    /* border: none !important; */
+}
+
+.newbgdrop {
+    min-height: 100vh;
+    display: flex;
+    backdrop-filter: blur(10px);
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.fw {
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.fw-60 {
+    font-size: 60px;
+}
