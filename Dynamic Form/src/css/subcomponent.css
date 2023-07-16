@@ -1,0 +1,15 @@
+.hero {
+    min-height: 100vh;
+}
+
+.bg-11 {
+    background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
+}
+
+.bg-22 {
+    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+}
+
+.bs {
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}

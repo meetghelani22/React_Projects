@@ -1,0 +1,31 @@
+* {
+  font-family: "Syne", sans-serif;
+}
+.bs {
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.c-btn {
+  padding: 25px 30px;
+  border-radius: 10px;
+  background-color: #f4f7ff;
+  border: none;
+  font-size: 25px;
+}
+.vh {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+}
+.c-btn:hover {
+  background-color: #b4b4b4;
+}
+.col {
+  padding: 0 !important;
+}
+.inpt {
+  outline: none;
+  border: none;
+  font-size: 40px;
+}

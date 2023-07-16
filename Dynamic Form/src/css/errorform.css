@@ -1,0 +1,19 @@
+p {
+    font-weight: 600;
+    margin-bottom: 0px !important;
+}
+
+.back {
+    background-size: cover;
+    background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+}
+
+.btn-color {
+    background-color: rgb(108, 148, 158) !important;
+    outline: none !important;
+}
+
+.bs1 {
+    background-color: #f2f6f7;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}

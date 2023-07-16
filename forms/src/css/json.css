@@ -1,0 +1,40 @@
+* {
+  /* outline: 2px solid red; */
+  font-family: "Poppins", sans-serif;
+}
+
+.bg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-image: radial-gradient(rgb(0 128 255) 0.5px, transparent 0.5px),
+    radial-gradient(rgb(0 128 255) 0.5px, #ffffff 0.5px);
+  background-size: 20px 20px;
+  background-position: 0 0, 10px 10px;
+}
+
+p {
+  margin-bottom: 10px !important;
+}
+
+.h {
+  min-height: 100vh;
+}
+
+.point {
+  cursor: pointer;
+}
+
+.bg {
+  background-color: rgb(33, 37, 41, 0.03);
+}
+
+.bs {
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.fs-18 {
+  font-size: 18px;
+}

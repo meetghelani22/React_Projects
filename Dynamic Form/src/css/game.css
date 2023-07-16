@@ -1,0 +1,37 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: "Raleway", sans-serif;
+}
+
+.bg {
+    /* color: white !important; */
+    background: url("../images/back-img4.jpg") no-repeat top;
+    background-size: cover;
+    /* background-position: 100%; */
+}
+
+.vh-100 {
+    min-height: 100vh;
+}
+
+.drop {
+    backdrop-filter: blur(30px);
+}
+
+.box {
+    /* color: white; */
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    background-color: transparent;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 35px;
+}
+
+.bs {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
